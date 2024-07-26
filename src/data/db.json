@@ -1,0 +1,60 @@
+{
+  "books": [
+    {
+      "title": "Plastic: A Novel",
+      "author": "Scott Guild",
+      "date": "February 2024",
+      "price": 42,
+      "tags": ["Climate change", "Sci-Fi"],
+      "id": 1
+    },
+    {
+      "title": "Space Oddities: The Mysterious Anomalies Challenging Our Understanding of the Universe",
+      "author": "Harry Cliff",
+      "date": "March 2024",
+      "price": 46,
+      "tags": ["Science", "History"],
+      "id": 2
+    },
+    {
+      "title": "H Is for Hope: Climate Change from A to Z",
+      "author": "Elizabeth Kolbert",
+      "illustrator": "Wesley Allsbrook",
+      "date": "March 2024",
+      "price": 67,
+      "tags": ["Climate change", "Technology"],
+      "id": 3
+    },
+    {
+      "title": "The Exquisite Machine: The New Science of the Heart",
+      "author": "Sian Harding",
+      "date": "February 2024",
+      "price": 98,
+      "tags": ["Health", "Biochemistry"],
+      "id": 4
+    },
+    {
+      "title": "Green Future: Innovations for a Sustainable World",
+      "author": "Jane Goodall",
+      "date": "April 2024",
+      "price": 38,
+      "tags": ["Environment", "Technology"],
+      "id": 5
+    },
+    {
+      "title": "The Quantum Realm: Unveiling the Mysteries of the Subatomic World",
+      "author": "Brian Cox",
+      "date": "May 2024",
+      "price": 62,
+      "tags": ["Climate change", "Physics"],
+      "id": 6
+    },
+    {
+      "title": "Artificial Intelligence: A Modern Approach",
+      "author": "Stuart Russell",
+      "price": 45,
+      "tags": ["Technology", "AI"],
+      "id": 7
+    }
+  ]
+}
